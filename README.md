@@ -24,7 +24,7 @@ Driver Table: DriverID, DriverName, DriverRating, VehicleType, DriverExperienceY
 The Booking Dashboard provides an overview of ride bookings, fare distribution, and ride distances. It includes KPIs for total fare, total bookings, and average ride distance. Users can filter the data by year and time slot to explore trends in ride bookings.
 
 ## Customer & Driver Dashboard
-     The Customer & Driver Dashboard focuses on customer and driver performance. It tracks customer ratings, driver activity, and fare distribution by vehicle type and gender. The dashboard helps analyze customer satisfaction and driver performance in different time slots.
+The Customer & Driver Dashboard focuses on customer and driver performance. It tracks customer ratings, driver activity, and fare distribution by vehicle type and gender. The dashboard helps analyze customer satisfaction and driver performance in different time slots.
 
 ## Key Insights
 Total Fare Growth:
